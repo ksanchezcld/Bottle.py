@@ -3,6 +3,7 @@ Bottle.py
 
   Libreria Python Bottle. 
   Fast and simple WSGI-framework for small web-applications.
+  bottle.py is a fast and simple micro-framework for python web-applications
 
 import bottle
 import os
